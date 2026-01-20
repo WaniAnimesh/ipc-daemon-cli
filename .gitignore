@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+x64/
+Debug/
+Release/
+*/x64/
+*/Debug/
+*/Release/
+
+# Compiler artifacts
+*.obj
+*.ilk
+*.pdb
+*.ipch
+*.tlog
+*.log
+*.db
+*.exe
+*.recipe
+
+# Misc
+*.lastcodeanalysissucceeded
