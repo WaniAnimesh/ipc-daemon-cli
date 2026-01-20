@@ -34,7 +34,7 @@ std::map<int, long long>
 
 ## Build Instructions
 
-# Requirements:
+### Requirements:
 
 Windows
 
@@ -42,7 +42,7 @@ Visual Studio 2022 (or compatible)
 
 MSVC toolchain
 
-# Steps:
+### Steps:
 
 Open IpcSystem.slnx in Visual Studio
 
@@ -53,4 +53,5 @@ Run DaemonProcess.exe
 Run one or more instances of ClientCLI.exe
 
 The daemon must be running before any client connects.
+
 
